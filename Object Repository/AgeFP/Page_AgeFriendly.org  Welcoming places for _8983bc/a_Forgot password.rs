@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Forgot password</name>
+   <tag></tag>
+   <elementGuidId>a4969a3a-9f05-435a-ac26-20954610325c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.forgot-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='new_user']/div[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>55a942e4-ec95-4c92-9626-6b80d93558b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>forgot-link</value>
+      <webElementGuid>97ef6d59-4f36-48a1-a354-b9b927852d51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/users/password/new</value>
+      <webElementGuid>d3855841-954a-4d77-9cf8-9e228e6cff5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Forgot password?</value>
+      <webElementGuid>7f167c17-e234-4ef9-8803-387aa862cd42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;new_user&quot;)/div[@class=&quot;forgot-psw-link&quot;]/a[@class=&quot;forgot-link&quot;]</value>
+      <webElementGuid>d346dfac-56e6-4a83-875c-fbe63844ab02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='new_user']/div[3]/a</value>
+      <webElementGuid>954f6abe-f753-4719-9ccf-c7ae8751738c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Forgot password?')]</value>
+      <webElementGuid>9fdb86a5-06a4-4a79-8003-7025278399c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::a[1]</value>
+      <webElementGuid>57fe9396-cb09-4826-ab2a-a3bbfaa897b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email address'])[1]/following::a[1]</value>
+      <webElementGuid>d5fd6c49-f05e-4dae-8694-97434f0bd8a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not a member yet?'])[1]/preceding::a[1]</value>
+      <webElementGuid>4e374991-52f5-4785-aec4-236b7978e062</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up here'])[1]/preceding::a[1]</value>
+      <webElementGuid>a6d7800b-487c-42d8-8df7-323c913fff46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Forgot password?']/parent::*</value>
+      <webElementGuid>1e567c56-ffc7-40a1-8bf1-b4d77c7537bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/users/password/new')]</value>
+      <webElementGuid>0c1da50e-daf8-4b96-b165-a14020acf30d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[3]/a</value>
+      <webElementGuid>26e99381-75e8-44a6-b1fa-152710960307</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/users/password/new' and (text() = 'Forgot password?' or . = 'Forgot password?')]</value>
+      <webElementGuid>0cb15875-da1f-41fe-92d2-8f3511c64a0d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
