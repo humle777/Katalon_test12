@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Welcome, john</name>
+   <tag></tag>
+   <elementGuidId>b82506e9-a9cb-4fa1-b7f5-e1322922b545</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='account_form']/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.user-welcome</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>839b1280-adf0-4dc0-97bf-cc19082af44c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>user-welcome</value>
+      <webElementGuid>28ac52b0-a3c8-420c-98e8-2bdaecd728a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Welcome, john</value>
+      <webElementGuid>b0be927d-8ffa-4401-9d9a-c6bdb4dd9816</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;account_form&quot;)/div[@class=&quot;user-data-wrapper&quot;]/div[@class=&quot;user-photo-section&quot;]/div[@class=&quot;user-photo-section--main&quot;]/div[@class=&quot;user-photo-section__item&quot;]/div[@class=&quot;user-welcome&quot;]</value>
+      <webElementGuid>0eceeb6c-67f6-4de4-8a9e-3599c88dc12f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='account_form']/div/div/div/div/div</value>
+      <webElementGuid>441357c3-3863-41b8-8c33-7414e054f634</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Best Places to Retire'])[1]/following::div[6]</value>
+      <webElementGuid>e6473fac-caf8-4141-924c-660ea6c7697d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[2]/following::div[6]</value>
+      <webElementGuid>dd7cbd4d-260d-4712-adbb-f97c4ff9b82f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal information'])[1]/preceding::div[2]</value>
+      <webElementGuid>8787f6f9-0008-448e-9016-cae77f92707d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First Name'])[1]/preceding::div[2]</value>
+      <webElementGuid>eb7e3c13-8b06-411b-bbb0-8df0ff9398bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/div/div</value>
+      <webElementGuid>551e5453-d380-4332-9d2a-b56c1725bdbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Welcome, john' or . = 'Welcome, john')]</value>
+      <webElementGuid>ad6c9040-86a7-4a3c-90fd-60ba266158bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

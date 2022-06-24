@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Password_eye i-eye-off</name>
+   <tag></tag>
+   <elementGuidId>f9cf0d18-01b3-4195-815d-669ea87b8047</elementGuidId>
+   <imagePath>screenshots/Capture.PNG</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value>screenshots/Capture.PNG</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='new_user']/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.eye.i-eye-off</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>IMAGE</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9c89c366-b327-4d4c-b743-b36ecf20679a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>eye i-eye-off</value>
+      <webElementGuid>627de0fd-6ac6-4f90-9da4-00b0bbf11210</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;new_user&quot;)/div[@class=&quot;log-in-fields log-in-fields--password&quot;]/span[@class=&quot;eye i-eye-off&quot;]</value>
+      <webElementGuid>0b62607d-0b5d-4582-a253-789463d11502</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='new_user']/div[2]/span</value>
+      <webElementGuid>c4baf791-af16-4700-9fdd-f817d9fcb4a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span</value>
+      <webElementGuid>5e74eb71-363e-4835-add5-3e48338d9a34</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
